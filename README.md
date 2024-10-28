@@ -9,16 +9,16 @@ Este repositório contém soluções em Java para uma série de atividades técn
 Dada a sequência de Fibonacci, onde se inicia por 0 e 1 e o próximo valor sempre será a soma dos 2 valores anteriores (exemplo: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34...), o programa deve calcular a sequência até o número informado e retornar uma mensagem avisando se o número informado pertence ou não à sequência.
 
 ### Implementação
-O código em Java está implementado no arquivo `Fibonacci.java`.
+O código em Java está implementado no arquivo `FibonacciChecker.java`.
 
 ### Como Executar
 1. Compile o código:
    ```sh
-   javac Fibonacci.java
+   javac FibonacciChecker.java
    ```
 2. Execute o código:
    ```sh
-   java Fibonacci <numero>
+   java FibonacciChecker <numero>
    ```
 
 ---
@@ -29,16 +29,16 @@ O código em Java está implementado no arquivo `Fibonacci.java`.
 Escreva um programa que verifique, em uma string, a existência da letra ‘a’, seja maiúscula ou minúscula, além de informar a quantidade de vezes em que ela ocorre.
 
 ### Implementação
-O código em Java está implementado no arquivo `VerificaLetraA.java`.
+O código em Java está implementado no arquivo `LetterACounter.java`.
 
 ### Como Executar
 1. Compile o código:
    ```sh
-   javac VerificaLetraA.java
+   javac LetterACounter.java
    ```
 2. Execute o código:
    ```sh
-   java VerificaLetraA <string>
+   java LetterACounter <string>
    ```
 
 ---
@@ -68,11 +68,11 @@ O código em Java está implementado no arquivo `CalculoSOMA.java`.
 ### Como Executar
 1. Compile o código:
    ```sh
-   javac CalculoSOMA.java
+   javac CountIndice.java
    ```
 2. Execute o código:
    ```sh
-   java CalculoSOMA
+   java CountIndice
    ```
 
 ---
@@ -105,11 +105,11 @@ O código em Java está implementado no arquivo `CompletaLogica.java`.
 ### Como Executar
 1. Compile o código:
    ```sh
-   javac CompletaLogica.java
+   javac Sequencias.java
    ```
 2. Execute o código:
    ```sh
-   java CompletaLogica
+   java Sequencias
    ```
 
 ---
@@ -125,11 +125,11 @@ O código em Java está implementado no arquivo `InterruptoresELampadas.java`.
 ### Como Executar
 1. Compile o código:
    ```sh
-   javac InterruptoresELampadas.java
+   javac Luz.java
    ```
 2. Execute o código:
    ```sh
-   java InterruptoresELampadas
+   java Luz
    ```
 
 ---
